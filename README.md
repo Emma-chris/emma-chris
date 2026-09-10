@@ -186,3 +186,99 @@ A school technology platform designed to improve the pathway between schools, st
 A full-stack platform designed to connect commerce, supply-chain operations and multiple payment methods.
 
 **Focus:** Full-Stack Development • Payments • E-Commerce
+
+
+
+<p align="center">
+  <a href="https://github.com/Emma-chris/CareerCode-Academy">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Emma-chris&repo=CareerCode-Academy&theme=tokyonight&hide_border=true"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Emma-chris/CareerCode-Academy">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Emma-chris&repo=CareerCode-Academy&theme=tokyonight&hide_border=true"
+    />
+  </a>
+
+  <a href="https://github.com/Emma-chris/EduCoreAI">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Emma-chris&repo=EduCoreAI&theme=tokyonight&hide_border=true"
+    />
+  </a>
+</p>
+
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Emma-chris&theme=tokyo-night&hide_border=true"
+    alt="Dev Chris Contribution Activity"
+  />
+</p>
+
+
+👋 Hi, I'm Dev Chris
+
+CEO & CTO — CAREER CODE ACADEMY
+
+Short professional introduction
+
+🔗 Social links
+
+━━━━━━━━━━━━━━━━━━━━
+
+🚀 What I Build
+
+Career Code Academy
+EduCoreAI
+Other projects
+
+━━━━━━━━━━━━━━━━━━━━
+
+💻 Tech Stack
+
+Frontend
+Backend
+Database
+Tools
+
+━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Stats
+
+GitHub stats
+GitHub streak
+
+━━━━━━━━━━━━━━━━━━━━
+
+🐍 Contribution Snake
+
+Snake animation
+
+━━━━━━━━━━━━━━━━━━━━
+
+🏆 GitHub Trophies
+
+Trophies
+
+━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+
+Repository cards
+
+━━━━━━━━━━━━━━━━━━━━
+
+📈 Contribution Activity
+
+Activity graph
+
+━━━━━━━━━━━━━━━━━━━━
+
+🤝 Let's Connect
+
