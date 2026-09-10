@@ -160,3 +160,29 @@ I'm open to collaborating on:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
+
+## 🚀 Featured Projects
+
+### 🎓 Career Code Academy
+
+An EdTech platform focused on helping learners move from education to practical skills and career opportunities.
+
+**Focus:** Education • Career Development • Practical Learning
+
+🔗 [View Career Code Academy](https://career-code-academy.vercel.app/)
+
+---
+
+### 🏫 EduCoreAI
+
+A school technology platform designed to improve the pathway between schools, students, teachers, parents, and digital learning.
+
+**Focus:** EdTech • SaaS • LMS • School Management
+
+---
+
+### 🛒 E-Commerce Supply Chain Platform
+
+A full-stack platform designed to connect commerce, supply-chain operations and multiple payment methods.
+
+**Focus:** Full-Stack Development • Payments • E-Commerce
