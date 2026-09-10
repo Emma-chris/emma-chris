@@ -114,4 +114,12 @@ I'm open to collaborating on:
   />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Emma-chris&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+    alt="GitHub Trophies"
+  />
+</p>
 
