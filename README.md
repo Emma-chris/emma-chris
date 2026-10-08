@@ -81,8 +81,8 @@ I'm open to collaborating on:
 ## 🌐 Connect With Me
 
 * 💻 GitHub: [@Emma-chris](https://github.com/Emma-chris)
-* 🔗 LinkedIn: Add your LinkedIn URL
-* 📧 Email: Add your professional email
+* 🔗 LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/emma-chris-47355831a/)
+* 📧 Email: emmach793@gmail.com
 
 ---
 
